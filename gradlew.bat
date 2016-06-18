@@ -67,7 +67,7 @@ goto execute
 set CMD_LINE_ARGS=%$
 
 :execute
-@rem Setup the command line
+@rem Setup the command lineaskdbfj baserhbkjnsdfohk jnmasfdjhjn
 
 set CLASSPATH=%APP_HOME%\gradle\wrapper\gradle-wrapper.jar
 
